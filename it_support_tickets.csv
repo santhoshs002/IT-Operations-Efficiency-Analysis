@@ -1,0 +1,255 @@
+Ticket ID,Date Logged,Issue Category,Priority,Status,Resolution Days
+T-1001,2025-12-11,Access/Login,High,Open,1.0
+T-1002,2025-11-21,Access/Login,Low,Open,0.9
+T-1003,2025-11-17,Hardware Failure,Low,Closed,11.4
+T-1004,2025-11-26,Access/Login,Low,Closed,0.4
+T-1005,2025-10-12,Software Glitch,Low,Closed,3.3
+T-1006,2025-12-01,Software Glitch,Medium,Open,5.0
+T-1007,2025-10-17,Access/Login,Low,Pending,0.4
+T-1008,2025-10-28,Hardware Failure,Low,Closed,10.7
+T-1009,2025-11-16,Hardware Failure,Medium,Pending,7.5
+T-1010,2025-10-21,Hardware Failure,Medium,Pending,12.8
+T-1011,19/12/2025,Hardware Failure,Medium,Closed,10.3
+T-1012,2025-12-19,Software Glitch,Low,Pending,1.8
+T-1013,2025-11-08,Access/Login,Low,Pending,0.9
+T-1014,2025-10-30,Network Issues,Medium,Closed,2.6
+T-1015,2025-11-09,Network Issues,Low,Open,4.8
+T-1016,2025-11-06,Softwre Glitch,Medium,Closed,6.4
+T-1017,2025-10-08,Access/Login,High,Closed,0.5
+T-1018,2025-10-30,Network Issues,Low,Closed,5.2
+T-1019,2025-12-23,Network Issues,Medium,Closed,3.7
+T-1020,2025-11-11,Network Issues,Low,Open,5.8
+T-1021,16th Nov 2025,Software Glitch,Medium,Open,3.9
+T-1022,2025-12-17,Network Issues,Medium,Closed,4.2
+T-1023,2025-11-13,Hardware Failure,Low,Closed,9.0
+T-1024,2025-12-19,Hardware Failure,Low,Closed,6.4
+T-1025,2025-10-09,Software Glitch,Low,Closed,6.8
+T-1026,2026-01-01,Hardware Failure,High,Closed ,6.4
+T-1027,2025-12-04,Hardware Failure,High,Closed,13.3
+T-1028,2025-12-14,Access/Login,High,Open,0.5
+T-1029,2025-11-15,Software Glitch,Medium,Closed,2.3
+T-1030,2025-12-15,Hardware Failure,Medium,Pending,10.2
+T-1031,20/11/2025,Software Glitch,Low,Closed,2.3
+T-1032,2025-12-27,Hardware Failure,Critical,Closed,13.6
+T-1033,2025-11-12,Access/Login,Low,Closed,1.0
+T-1034,2025-11-13,Software Glitch,High,Closed,4.5
+T-1035,2025-11-28,Access/Login,Low,Closed,0.4
+T-1036,2025-12-07,Network Issues,Medium,Pending,
+T-1037,2025-11-08,Hardware Failure,Low,Closed,12.9
+T-1038,2025-11-03,Network Issues,Medium,Open,5.4
+T-1039,2025-10-23,Access/Login,Critical,Closed,0.9
+T-1040,2025-12-11,Access/Login,Medium,Closed,0.4
+T-1041,2025-11-23,Access/Login,Medium,Closed,0.3
+T-1042,2025-10-12,Software Glitch,Medium,Closed,4.0
+T-1043,2025-11-02,Access/Login,High,Pending,0.4
+T-1044,2025-10-21,Hardware Failure,Low,Closed,8.1
+T-1045,2025-10-28,Network Issues,High,Closed,4.1
+T-1046,2025-10-10,Network Issues,Hihg,Open,3.1
+T-1047,2025-12-23,Access/Login,High,Closed,0.3
+T-1048,2025-11-21,Network Issues,Medium,Closed,5.3
+T-1049,2025-10-21,Access/Login,High,Closed,0.3
+T-1050,2025-11-10,Network Issues,Low,Closed,5.3
+T-1051,2025-12-05,Access/Login,Low,Closed,0.6
+T-1051,2025-12-05,Access/Login,Low,Closed,0.6
+T-1052,2025-12-08,Software Glitch,Medium,Pending,3.1
+T-1053,2025-10-16,Software Glitch,Low,Closed,6.5
+T-1054,2025-12-11,Network Issues,Medium,Closed,1.4
+T-1055,2025-10-25,Software Glitch,Low,Closed,5.0
+T-1056,2025-11-24,Software Glitch,Low,Closed,4.5
+T-1057,2025-10-20,Network Issues,Medium,Closed,4.3
+T-1058,2025-11-09,Access/Login,Medium,Pending,0.2
+T-1059,2025-11-22,Software Glitch,Low,Closed,1.3
+T-1060,02th Nov 2025,Hardware Failure,Low,Closed,12.5
+T-1061,2025-12-15,Access/Login,Low,Closed,0.2
+T-1062,2025-12-12,Software Glitch,Medium,Open,2.4
+T-1063,2025-11-10,Hardware Failure,Low,Closed,6.5
+T-1064,2025-11-16,Hardware Failure,Low,Closed,13.5
+T-1065,2026-01-01,Hardware Failure,Medium,Closed,11.3
+T-1066,2025-10-27,Access/Login,Low,Closed,1.0
+T-1067,2025-12-22,Hardware Failure,Low,Open,13.2
+T-1068,2025-11-05,Hardware Failure,High,Closed,6.9
+T-1069,2025-11-26,Hardware Failure,Low,Closed,10.0
+T-1070,18/11/2025,Access/Login,Medium,Open,0.4
+T-1071,2025-11-27,Access/Login,Low,Closed,0.8
+T-1072,2025-12-28,Software Glitch,Low,Open,4.6
+T-1073,2025-11-25,Access/Login,Medium,Closed,0.2
+T-1074,2025-11-23,Access/Login,High,Closed,0.7
+T-1075,2026-01-05,Software Glitch,Medium,Closed,
+T-1076,2025-10-11,Access/Login,Low,Pending,0.6
+T-1077,2025-12-01,Access/Login,High,Closed,0.5
+T-1078,2025-12-21,Hardware Failure,Low,Pending,9.2
+T-1079,2025-10-11,Access/Login,Medium,Closed,0.2
+T-1080,2025-12-21,Access/Login,Low,Closed,0.1
+T-1081,2025-10-29,Access/Login,High,Closed,0.8
+T-1082,2025-10-31,Network Issues,Low,Closed,4.5
+T-1083,2025-10-13,Hardware Failure,Low,Closed,7.6
+T-1084,2025-12-09,Software Glitch,Medium,Closed,2.8
+T-1085,2025-11-05,Hardware Failure,Low,Pending ,10.5
+T-1086,2025-11-19,Software Glitch,Medium,Closed,1.9
+T-1087,2025-12-01,Access/Login,Medium,Closed,0.6
+T-1088,2025-10-12,Access/Login,Low,Closed,0.7
+T-1089,2025-12-22,Hardware Failure,Medium,Closed,13.8
+T-1090,2025-11-15,Netwrok Issues,Low,Closed,2.9
+T-1091,2025-12-18,Network Issues,Low,Closed,2.4
+T-1092,2025-11-13,Hardware Failure,High,Closed,7.4
+T-1093,2025-12-23,Software Glitch,Medium,Closed,6.2
+T-1094,2025-12-28,Hardware Failure,Low,Closed,7.3
+T-1095,08/11/2025,Access/Login,High,Closed,0.8
+T-1096,2025-11-20,Hardware Failure,Medium,Closed,13.4
+T-1097,2025-11-11,Software Glitch,High,Open,2.7
+T-1098,2025-12-21,Software Glitch,Medium,Closed,6.2
+T-1099,2025-12-20,Network Issues,High,Closed,4.4
+T-1100,2025-12-24,Hardware Failure,Low,Closed,11.8
+T-1101,2025-12-28,Hardware Failure,Medium,Closed,8.3
+T-1102,2025-11-04,Access/Login,Low,Open,1.0
+T-1103,2025-11-27,Network Issues,Medium,Closed,6.8
+T-1104,2025-12-16,Software Glitch,Medium,Closed,2.2
+T-1105,2026-01-01,Access/Login,Low,Pending,0.7
+T-1106,2025-11-20,Network Issues,Critical,Closed,1.1
+T-1107,2025-12-05,Software Glitch,Low,Closed,6.0
+T-1108,2025-12-11,Hardware Failure,Low,Open,7.0
+T-1109,2025-12-06,Hardware Failure,Medium,Closed,6.4
+T-1110,12th Dec 2025,Network Issues,Low,Closed,3.2
+T-1111,2025-10-12,Access/Login,High,Closed,0.6
+T-1112,2025-12-30,Hardware Failure,Medium,Closed,12.5
+T-1113,2025-12-09,Access/Login,Medium,Pending,0.3
+T-1114,2025-10-28,Network Issues,Low,Closed,6.1
+T-1115,2025-11-06,Network Issues,Medium,Closed,1.1
+T-1116,2025-10-15,Access/Login,Medium,Open,0.5
+T-1117,2025-11-02,Network Issues,Low,Pending,2.1
+T-1118,2025-11-10,Hardware Failure,High,Closed,6.3
+T-1119,2025-12-29,Software Glitch,Medium,Closed,4.3
+T-1120,2025-12-02,Access/Login,High,Closed,0.7
+T-1120,2025-12-02,Access/Login,High,Closed,0.7
+T-1121,2026-01-02,Access/Login,Critical,Closed,0.2
+T-1122,2025-12-23,Network Issues,Critical,Pending,2.8
+T-1123,2025-11-15,Access/Login,Low,Closed,0.6
+T-1124,2025-12-23,Hardware Failure,Medium,Open,7.9
+T-1125,2025-12-29,Access/Login,High,Closed,0.3
+T-1126,2025-10-20,Access/Login,High,Closed,0.8
+T-1127,2025-12-25,Network Issues,Low,Pending,6.1
+T-1128,2025-12-20,Network Issues,High,Open,5.7
+T-1129,2025-10-09,Software Glitch,Medium,Closed,
+T-1130,2025-10-25,Software Glitch,Low,Closed,3.8
+T-1131,2025-10-08,Network Issues,Medium,Closed,4.9
+T-1132,2025-10-26,Hardware Failure,Low,Open,7.1
+T-1133,2026-01-01,Network Issues,Low,Closed,6.9
+T-1134,2025-12-31,Software Glitch,Low,Pending,2.6
+T-1135,2025-10-29,Hardware Failure,Medium,Open,9.6
+T-1136,2025-10-28,Software Glitch,Low,Closed,2.1
+T-1137,2025-12-07,Hardware Failure,Low,Closed,10.9
+T-1138,2025-11-02,Access/Login,Low,Closed,0.8
+T-1139,27/12/2025,Software Glitch,High,Pending,4.5
+T-1140,2025-10-20,Access/Login,Medium,Closed,0.7
+T-1141,2025-11-30,Software Glitch,Low,Closed,3.1
+T-1142,2025-11-22,Hardware Failure,Low,Closed,6.9
+T-1143,2025-12-15,Access/Login,Medium,Closed,0.7
+T-1144,2025-10-26,Hardware Failure,Low,Closed,6.8
+T-1145,2025-10-22,Software Glitch,Low,Open,1.4
+T-1146,2025-11-21,Network Issues,Medium,Closed,4.5
+T-1147,2025-10-22,Network Issues,Low,Pending,4.6
+T-1148,2025-10-12,Software Glitch,High,Closed,2.8
+T-1149,2025-12-06,Software Glitch,Critical,Closed,6.9
+T-1150,2025-12-19,Network Issues,Medium,Closed,3.6
+T-1151,2025-10-30,Hardware Failure,Medium,Closed,6.9
+T-1152,2025-12-13,Network Issues,Low,Closed,5.7
+T-1153,2025-11-25,Network Issues,Low,Closed,6.1
+T-1154,2025-11-06,Network Issues,Low,Closed,6.4
+T-1155,2025-12-10,Hardware Failure,High,Open,9.4
+T-1156,2025-12-02,Software Glitch,Low,Closed,2.4
+T-1157,2025-10-13,Hardware Failure,Low,Closed,13.1
+T-1158,2025-12-10,Hardware Failure,Low,Closed,5.0
+T-1159,2025-10-08,Hardware Failure,Medium,Closed,
+T-1160,2026-01-02,Access/Login,Medium,Closed,0.6
+T-1161,2025-11-12,Network Issues,Medium,Closed,5.1
+T-1162,2025-12-26,Access/Login,Medium,Closed,0.2
+T-1163,2025-11-20,Network Issues,Low,Pending,1.9
+T-1164,2025-11-17,Access/Login,Medium,Closed,0.8
+T-1165,2025-11-12,Software Glitch,High,Closed,1.3
+T-1166,2025-12-03,Software Glitch,High,Closed,3.6
+T-1167,2025-10-28,Software Glitch,Low,Pending,2.5
+T-1168,2025-11-20,Access/Login,Medium,Closed,0.6
+T-1169,2025-10-17,Software Glitch,High,Open,3.7
+T-1170,2026-01-04,Hardware Failure,Low,Closed,10.7
+T-1171,2025-11-29,Network Issues,Medium,Closed,5.0
+T-1172,2025-11-09,Hardware Failure,Low,Pending,9.1
+T-1173,2025-11-25,Software Glitch,Low,Closed,5.8
+T-1174,2026-01-01,Hardware Failure,High,Closed,8.2
+T-1175,2025-11-25,Software Glitch,Low,Closed,1.9
+T-1176,2025-12-13,Software Glitch,High,Closed,7.0
+T-1177,2025-10-17,Software Glitch,Medium,Closed,2.7
+T-1178,2026-01-05,Software Glitch,High,Open,2.4
+T-1179,2025-10-13,Access/Login,Low,Closed,0.3
+T-1179,2025-10-13,Access/Login,Low,Closed,0.3
+T-1180,2025-12-11,Software Glitch,Medium,Closed,6.4
+T-1181,2025-10-24,Access/Login,Low,Closed,0.8
+T-1182,2025-12-10,Access/Login,Medium,Closed,0.2
+T-1183,2025-11-17,Access/Login,High,Closed,0.4
+T-1184,2025-10-20,Network Issues,Low,Pending,1.7
+T-1185,2025-12-05,Software Glitch,Medium,Closed,3.6
+T-1186,2025-10-22,Access/Login,Medium,Open,0.3
+T-1187,2025-10-12,Software Glitch,Medium,Closed,1.2
+T-1188,2025-11-28,Access/Login,Low,Open,0.3
+T-1189,2026-01-03,Hardware Failure,High,Closed,6.1
+T-1190,2025-11-04,Access/Login,High,Closed,0.3
+T-1191,2025-12-02,Network Issues,Low,Closed,1.6
+T-1192,2025-10-31,Network Issues,Medium,Closed,6.9
+T-1193,2025-11-09,Hardware Failure,Low,Closed,9.6
+T-1194,2025-11-08,Network Issues,Medium,Closed,5.9
+T-1195,2025-12-04,Access/Login,Low,Closed,0.4
+T-1196,2025-10-15,Software Glitch,Medium,Open,4.8
+T-1197,2025-12-22,Access/Login,Low,Closed,0.4
+T-1198,2025-12-10,Access/Login,Medium,Closed,
+T-1199,2025-10-27,Software Glitch,Low,Pending,6.9
+T-1200,2026-01-01,Access/Login,Medium,Pending,0.9
+T-1201,2025-11-29,Network Issues,Medium,Pending,5.9
+T-1202,2025-11-11,Access/Login,Medium,Open,0.7
+T-1203,2025-10-22,Network Issues,Medium,Open,3.8
+T-1204,2025-10-24,Access/Login,Medium,Closed,0.7
+T-1205,2025-12-03,Access/Login,Medium,Closed,0.2
+T-1206,2025-11-27,Network Issues,Low,Closed,5.5
+T-1207,2025-12-15,Network Issues,High,Closed,2.7
+T-1208,2026-01-01,Access/Login,High,Closed,0.2
+T-1208,2026-01-01,Access/Login,High,Closed,0.2
+T-1209,2025-10-25,Hardware Failure,Medium,Closed,8.7
+T-1210,2025-12-09,Software Glitch,Medium,Open,2.6
+T-1211,2025-11-07,Access/Login,Low,Pending,0.7
+T-1212,2025-10-31,Network Issues,Low,Closed,6.9
+T-1213,2025-11-09,Network Issues,High,Closed,1.9
+T-1214,2025-12-15,Access/Login,Medium,Closed,0.4
+T-1215,2025-11-07,Software Glitch,Medium,Closed,5.9
+T-1216,2025-12-16,Access/Login,Medium,Closed,0.8
+T-1217,2025-11-22,Software Glitch,High,Open,6.2
+T-1218,2025-12-04,Access/Login,Medium,Open,0.7
+T-1219,2025-10-18,Access/Login,High,Closed,0.6
+T-1220,2025-12-03,Access/Login,Low,Closed,0.5
+T-1221,2026-01-06,Network Issues,Medium,Pending,3.6
+T-1222,2025-10-14,Software Glitch,Low,Closed,5.7
+T-1223,2025-12-05,Network Issues,Low,Closed,2.2
+T-1224,2025-11-06,Network Issues,Low,Closed,6.0
+T-1225,2025-12-20,Network Issues,Low,Closed,4.4
+T-1226,2025-10-26,Software Glitch,Critical,Closed,6.6
+T-1227,2025-10-31,Hardware Failure,Medium,Closed,11.1
+T-1228,2025-12-16,Network Issues,High,Closed,5.2
+T-1229,2026-01-01,Software Glitch,Low,Closed,5.9
+T-1230,2025-11-05,Software Glitch,Low,Pending,2.2
+T-1231,2025-12-29,Access/Login,Low,Closed,0.2
+T-1232,2025-10-22,Network Issues,Medium,Closed,5.2
+T-1233,2025-11-05,Software Glitch,Low,Closed,4.9
+T-1234,2025-11-30,Access/Login,Low,Closed,0.3
+T-1235,2025-10-14,Software Glitch,Medium,Closed,5.5
+T-1236,2025-10-12,Hardware Failure,Low,Closed,13.3
+T-1237,2025-12-03,Software Glitch,Low,Closed,1.1
+T-1238,2025-12-28,Hardware Failure,Low,Pending,7.3
+T-1239,2025-12-27,Software Glitch,High,Closed,1.2
+T-1240,2025-12-16,Software Glitch,Low,Closed,6.8
+T-1241,2025-12-08,Access/Login,Low,Open,0.2
+T-1242,2025-11-20,Hardware Failure,High,Closed,11.1
+T-1243,2025-12-18,Hardware Failure,Medium,Closed,12.3
+T-1244,2025-11-05,Access/Login,Low,Closed,0.2
+T-1245,2025-12-02,Network Issues,High,Closed,6.3
+T-1246,2025-11-24,Network Issues,Critical,Closed,1.1
+T-1247,2025-10-21,Network Issues,Low,Closed,3.5
+T-1248,2025-12-03,Access/Login,Low,Open,1.0
+T-1249,2025-12-25,Network Issues,Low,Closed,3.2
+T-1250,2025-10-24,Software Glitch,Low,Open,2.6
